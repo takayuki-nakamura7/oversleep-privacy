@@ -37,4 +37,4 @@ processed on the device.
 
 ## Contact
 
-Questions about Oversleep or this policy: [ktkr3335@yahoo.co.jp](mailto:ktkr3335@yahoo.co.jp)
+Questions about Oversleep or this policy: [support@takenocode.com](mailto:support@takenocode.com)

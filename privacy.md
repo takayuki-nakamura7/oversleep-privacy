@@ -90,4 +90,4 @@ If this policy changes, the date at the top of this page changes with it.
 
 ## Contact
 
-[ktkr3335@yahoo.co.jp](mailto:ktkr3335@yahoo.co.jp)
+[support@takenocode.com](mailto:support@takenocode.com)
